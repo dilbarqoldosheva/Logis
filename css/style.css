@@ -9,3 +9,6 @@
     background-color: #0e1d34;
    
 }
+.box{
+   box-shadow:  0 3px 20px -2px color-mix(in srgb, #212529, transparent 90%);
+}
