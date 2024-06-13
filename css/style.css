@@ -7,8 +7,20 @@
 .action{
     background-image: url(https://bootstrapmade.com/demo/templates/Logis/assets/img/cta-bg.jpg);
     background-color: #0e1d34;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
    
 }
-.box{
+.box , .women{
    box-shadow:  0 3px 20px -2px color-mix(in srgb, #212529, transparent 90%);
+}
+.women{
+   width: 110px;
+}
+.people{
+   background-image: url(https://bootstrapmade.com/demo/templates/Logis/assets/img/testimonials-bg.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
